@@ -1,5 +1,5 @@
 {
-"spider":"你的0608.jar地址",
+"spider":"https://zjl28807.github.io/test/bl0608.jar",
 
 "sites":[
 
